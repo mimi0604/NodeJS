@@ -1,0 +1,57 @@
+[
+	{
+		"api_url": "http://localhost:8080"
+	},
+	{
+		"userId": 12,
+		"chirpId": 48,
+		"chirpText": "Търсим нов служител. Нужно е да е наполовина човеко-прасе, наполовина - мечка. Желание за работа с #WordPress е многу от съществено значка.",
+		"chirpTime": "10-10-2014 12:54"
+	},
+	{
+		"user": "some data to send",
+		"chirp": "some chirp"
+	},
+	{
+		"userId": "5",
+		"chirpId": 1,
+		"chirpText": "This is my new chirp",
+		"chirpTime": "Fri Oct 17 2014 18:23:24 GMT+0300 (EEST)"
+	},
+	{
+		"userId": "5",
+		"chirpId": 1,
+		"chirpText": "This is my new chirp",
+		"chirpTime": "Fri Oct 17 2014 18:34:12 GMT+0300 (EEST)"
+	},
+	{
+		"userId": "5",
+		"chirpId": 1,
+		"chirpText": "This is my new chirp",
+		"chirpTime": "Fri Oct 17 2014 18:35:45 GMT+0300 (EEST)"
+	},
+	{
+		"userId": "5",
+		"chirpId": 1,
+		"chirpText": "This is my new chirp",
+		"chirpTime": "Fri Oct 17 2014 18:36:41 GMT+0300 (EEST)"
+	},
+	{
+		"userId": "5",
+		"chirpId": 49,
+		"chirpText": "This is my new chirp",
+		"chirpTime": "Fri Oct 17 2014 18:41:22 GMT+0300 (EEST)"
+	},
+	{
+		"user": "mimi",
+		"userId": 1,
+		"key": "1c571",
+		"chirps": 0
+	},
+	{
+		"user": "mimi",
+		"userId": 2,
+		"key": "11d2c",
+		"chirps": 0
+	}
+]
